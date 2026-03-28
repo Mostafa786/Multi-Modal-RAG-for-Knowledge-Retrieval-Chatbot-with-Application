@@ -10,7 +10,7 @@ This is an LLM-powered assistant that uses your own curated documents (notes, da
 It acts like ChatGPT but specialized for IoT engineers.
 
 ## 🔗 Project Video:
-[Linkedin video](https://www.linkedin.com/posts/mostafa-mahmoud-ai_%D8%AA%D8%AE%D9%8A%D9%84-%D8%AA%D8%AE%D9%84%D8%B5-%D8%AF%D8%B1%D8%B3-%D9%88%D8%AA%D8%B3%D8%A3%D9%84-%D8%A3%D9%8A-%D8%B3%D8%A4%D8%A7%D9%84-%D8%B9%D9%86%D9%87-%D9%81%D9%88%D8%B1%D8%A7-%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-ugcPost-7439321876600070144-sv6b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4d9QwBloN5lTeDf-KxK3Q9BKjU_Rb1HNo)
+[Linkedin video](https://www.linkedin.com/posts/mostafa-mahmoud-ai_aeyaeraepaejabraepaedaefaeuaepaehaey-rag-ugcPost-7402952610015612930-eQh0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4d9QwBloN5lTeDf-KxK3Q9BKjU_Rb1HNo)
 
 ## The system uses:
 
